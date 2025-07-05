@@ -7,11 +7,12 @@ import Button from '@/components/atoms/Button'
 const Sidebar = ({ isOpen, onClose }) => {
   const location = useLocation()
   
-  const navigationItems = [
+const navigationItems = [
     { path: '/', label: 'Dashboard', icon: 'LayoutDashboard' },
     { path: '/patients', label: 'Patients', icon: 'Users' },
     { path: '/appointments', label: 'Appointments', icon: 'Calendar' },
     { path: '/prescriptions', label: 'Prescriptions', icon: 'FileText' },
+    { path: '/templates', label: 'Templates', icon: 'Library' },
     { path: '/drugs', label: 'Drugs', icon: 'Pill' },
     { path: '/assistants', label: 'Assistants', icon: 'UserPlus' },
     { path: '/settings', label: 'Settings', icon: 'Settings' }

@@ -7,6 +7,7 @@ import PatientDetail from '@/components/pages/PatientDetail'
 import Appointments from '@/components/pages/Appointments'
 import Prescriptions from '@/components/pages/Prescriptions'
 import PrescriptionBuilder from '@/components/pages/PrescriptionBuilder'
+import TemplateLibrary from '@/components/pages/TemplateLibrary'
 import Drugs from '@/components/pages/Drugs'
 import Assistants from '@/components/pages/Assistants'
 import Settings from '@/components/pages/Settings'
@@ -20,8 +21,9 @@ function App() {
           <Route path="/patients" element={<Patients />} />
           <Route path="/patients/:id" element={<PatientDetail />} />
           <Route path="/appointments" element={<Appointments />} />
-          <Route path="/prescriptions" element={<Prescriptions />} />
+<Route path="/prescriptions" element={<Prescriptions />} />
           <Route path="/prescriptions/builder" element={<PrescriptionBuilder />} />
+          <Route path="/templates" element={<TemplateLibrary />} />
           <Route path="/drugs" element={<Drugs />} />
           <Route path="/assistants" element={<Assistants />} />
           <Route path="/settings" element={<Settings />} />
