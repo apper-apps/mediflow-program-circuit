@@ -1,0 +1,137 @@
+[
+  {
+    "Id": 1,
+    "name": "Metformin",
+    "genericName": "Metformin HCl",
+    "dosageForm": "Tablet",
+    "strength": "500mg",
+    "warnings": ["May cause lactic acidosis in rare cases", "Monitor kidney function"],
+    "interactions": ["Contrast dyes", "Alcohol"]
+  },
+  {
+    "Id": 2,
+    "name": "Lisinopril",
+    "genericName": "Lisinopril",
+    "dosageForm": "Tablet",
+    "strength": "10mg",
+    "warnings": ["May cause dry cough", "Monitor kidney function", "Avoid in pregnancy"],
+    "interactions": ["Potassium supplements", "NSAIDs"]
+  },
+  {
+    "Id": 3,
+    "name": "Atorvastatin",
+    "genericName": "Atorvastatin Calcium",
+    "dosageForm": "Tablet",
+    "strength": "20mg",
+    "warnings": ["May cause muscle pain", "Monitor liver function"],
+    "interactions": ["Grapefruit juice", "Warfarin"]
+  },
+  {
+    "Id": 4,
+    "name": "Levothyroxine",
+    "genericName": "Levothyroxine Sodium",
+    "dosageForm": "Tablet",
+    "strength": "75mcg",
+    "warnings": ["Take on empty stomach", "Monitor thyroid function"],
+    "interactions": ["Calcium", "Iron supplements", "Coffee"]
+  },
+  {
+    "Id": 5,
+    "name": "Albuterol",
+    "genericName": "Albuterol Sulfate",
+    "dosageForm": "Inhaler",
+    "strength": "90mcg/puff",
+    "warnings": ["May cause tremors", "May increase heart rate"],
+    "interactions": ["Beta-blockers", "Digoxin"]
+  },
+  {
+    "Id": 6,
+    "name": "Omeprazole",
+    "genericName": "Omeprazole",
+    "dosageForm": "Capsule",
+    "strength": "20mg",
+    "warnings": ["Long-term use may affect bone density", "May mask stomach cancer symptoms"],
+    "interactions": ["Warfarin", "Clopidogrel"]
+  },
+  {
+    "Id": 7,
+    "name": "Sertraline",
+    "genericName": "Sertraline HCl",
+    "dosageForm": "Tablet",
+    "strength": "50mg",
+    "warnings": ["May increase suicidal thoughts in young adults", "Monitor for serotonin syndrome"],
+    "interactions": ["MAOIs", "Blood thinners"]
+  },
+  {
+    "Id": 8,
+    "name": "Sumatriptan",
+    "genericName": "Sumatriptan Succinate",
+    "dosageForm": "Tablet",
+    "strength": "50mg",
+    "warnings": ["Contraindicated in cardiovascular disease", "May cause chest pain"],
+    "interactions": ["Ergot alkaloids", "Other triptans"]
+  },
+  {
+    "Id": 9,
+    "name": "Prednisone",
+    "genericName": "Prednisone",
+    "dosageForm": "Tablet",
+    "strength": "10mg",
+    "warnings": ["May suppress immune system", "Do not stop abruptly"],
+    "interactions": ["Live vaccines", "Diabetes medications"]
+  },
+  {
+    "Id": 10,
+    "name": "Amoxicillin",
+    "genericName": "Amoxicillin",
+    "dosageForm": "Capsule",
+    "strength": "500mg",
+    "warnings": ["May cause allergic reactions", "May cause diarrhea"],
+    "interactions": ["Warfarin", "Oral contraceptives"]
+  },
+  {
+    "Id": 11,
+    "name": "Ibuprofen",
+    "genericName": "Ibuprofen",
+    "dosageForm": "Tablet",
+    "strength": "400mg",
+    "warnings": ["May cause stomach ulcers", "Avoid in kidney disease"],
+    "interactions": ["Blood thinners", "ACE inhibitors"]
+  },
+  {
+    "Id": 12,
+    "name": "Hydrochlorothiazide",
+    "genericName": "Hydrochlorothiazide",
+    "dosageForm": "Tablet",
+    "strength": "25mg",
+    "warnings": ["May cause electrolyte imbalance", "Monitor kidney function"],
+    "interactions": ["Lithium", "Diabetes medications"]
+  },
+  {
+    "Id": 13,
+    "name": "Amlodipine",
+    "genericName": "Amlodipine Besylate",
+    "dosageForm": "Tablet",
+    "strength": "5mg",
+    "warnings": ["May cause ankle swelling", "May cause dizziness"],
+    "interactions": ["Simvastatin", "Grapefruit juice"]
+  },
+  {
+    "Id": 14,
+    "name": "Warfarin",
+    "genericName": "Warfarin Sodium",
+    "dosageForm": "Tablet",
+    "strength": "5mg",
+    "warnings": ["Regular blood monitoring required", "Bleeding risk"],
+    "interactions": ["Antibiotics", "NSAIDs", "Vitamin K"]
+  },
+  {
+    "Id": 15,
+    "name": "Furosemide",
+    "genericName": "Furosemide",
+    "dosageForm": "Tablet",
+    "strength": "40mg",
+    "warnings": ["May cause dehydration", "Monitor electrolytes"],
+    "interactions": ["Lithium", "Digoxin"]
+  }
+]

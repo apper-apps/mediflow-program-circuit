@@ -1,0 +1,116 @@
+[
+  {
+    "Id": 1,
+    "patientId": 1,
+    "doctorId": "dr-1",
+    "date": "2024-01-15",
+    "medications": [
+      {
+        "name": "Metformin",
+        "genericName": "Metformin HCl",
+        "dosage": "500mg",
+        "frequency": "Twice daily",
+        "duration": "30 days",
+        "instructions": "Take with food"
+      },
+      {
+        "name": "Lisinopril",
+        "genericName": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily",
+        "duration": "30 days",
+        "instructions": "Take in the morning"
+      }
+    ],
+    "instructions": "Monitor blood sugar levels daily. Return for follow-up in 2 weeks.",
+    "templateId": null
+  },
+  {
+    "Id": 2,
+    "patientId": 2,
+    "doctorId": "dr-1",
+    "date": "2024-01-10",
+    "medications": [
+      {
+        "name": "Sumatriptan",
+        "genericName": "Sumatriptan Succinate",
+        "dosage": "50mg",
+        "frequency": "As needed",
+        "duration": "30 days",
+        "instructions": "Take at onset of migraine"
+      }
+    ],
+    "instructions": "Use only for severe migraines. Do not exceed 2 doses per day.",
+    "templateId": null
+  },
+  {
+    "Id": 3,
+    "patientId": 3,
+    "doctorId": "dr-1",
+    "date": "2024-01-08",
+    "medications": [
+      {
+        "name": "Atorvastatin",
+        "genericName": "Atorvastatin Calcium",
+        "dosage": "20mg",
+        "frequency": "Once daily",
+        "duration": "90 days",
+        "instructions": "Take in the evening"
+      },
+      {
+        "name": "Aspirin",
+        "genericName": "Acetylsalicylic Acid",
+        "dosage": "81mg",
+        "frequency": "Once daily",
+        "duration": "90 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "instructions": "Continue current diet and exercise plan. Lab work in 6 weeks.",
+    "templateId": null
+  },
+  {
+    "Id": 4,
+    "patientId": 4,
+    "doctorId": "dr-1",
+    "date": "2024-01-05",
+    "medications": [
+      {
+        "name": "Levothyroxine",
+        "genericName": "Levothyroxine Sodium",
+        "dosage": "75mcg",
+        "frequency": "Once daily",
+        "duration": "90 days",
+        "instructions": "Take on empty stomach, 30 minutes before breakfast"
+      }
+    ],
+    "instructions": "Thyroid function test in 8 weeks. Maintain consistent timing.",
+    "templateId": null
+  },
+  {
+    "Id": 5,
+    "patientId": 6,
+    "doctorId": "dr-1",
+    "date": "2024-01-12",
+    "medications": [
+      {
+        "name": "Albuterol",
+        "genericName": "Albuterol Sulfate",
+        "dosage": "90mcg",
+        "frequency": "As needed",
+        "duration": "30 days",
+        "instructions": "2 puffs every 4-6 hours as needed for wheezing"
+      },
+      {
+        "name": "Prednisone",
+        "genericName": "Prednisone",
+        "dosage": "10mg",
+        "frequency": "Once daily",
+        "duration": "7 days",
+        "instructions": "Take with food, taper as directed"
+      }
+    ],
+    "instructions": "Use rescue inhaler as needed. Return if symptoms worsen.",
+    "templateId": null
+  }
+]

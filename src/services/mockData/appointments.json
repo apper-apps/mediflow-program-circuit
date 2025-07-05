@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "patientId": 1,
+    "patientName": "John Smith",
+    "doctorId": "dr-1",
+    "dateTime": "2024-01-15T10:00:00Z",
+    "duration": 30,
+    "type": "Consultation",
+    "status": "confirmed",
+    "notes": "Follow-up for diabetes management"
+  },
+  {
+    "Id": 2,
+    "patientId": 2,
+    "patientName": "Sarah Johnson",
+    "doctorId": "dr-1",
+    "dateTime": "2024-01-15T11:00:00Z",
+    "duration": 45,
+    "type": "Check-up",
+    "status": "scheduled",
+    "notes": "Annual physical examination"
+  },
+  {
+    "Id": 3,
+    "patientId": 3,
+    "patientName": "Michael Brown",
+    "doctorId": "dr-1",
+    "dateTime": "2024-01-15T14:00:00Z",
+    "duration": 30,
+    "type": "Follow-up",
+    "status": "confirmed",
+    "notes": "Review cholesterol levels"
+  },
+  {
+    "Id": 4,
+    "patientId": 4,
+    "patientName": "Emily Davis",
+    "doctorId": "dr-1",
+    "dateTime": "2024-01-15T15:30:00Z",
+    "duration": 30,
+    "type": "Consultation",
+    "status": "scheduled",
+    "notes": "Thyroid function assessment"
+  },
+  {
+    "Id": 5,
+    "patientId": 5,
+    "patientName": "David Wilson",
+    "doctorId": "dr-1",
+    "dateTime": "2024-01-16T09:00:00Z",
+    "duration": 60,
+    "type": "Physical Therapy",
+    "status": "scheduled",
+    "notes": "Initial therapy session"
+  },
+  {
+    "Id": 6,
+    "patientId": 6,
+    "patientName": "Jennifer Miller",
+    "doctorId": "dr-1",
+    "dateTime": "2024-01-16T10:30:00Z",
+    "duration": 30,
+    "type": "Emergency",
+    "status": "completed",
+    "notes": "Asthma attack treatment"
+  },
+  {
+    "Id": 7,
+    "patientId": 7,
+    "patientName": "Robert Taylor",
+    "doctorId": "dr-1",
+    "dateTime": "2024-01-16T13:00:00Z",
+    "duration": 30,
+    "type": "Follow-up",
+    "status": "no-show",
+    "notes": "GERD follow-up"
+  },
+  {
+    "Id": 8,
+    "patientId": 8,
+    "patientName": "Lisa Anderson",
+    "doctorId": "dr-1",
+    "dateTime": "2024-01-17T11:00:00Z",
+    "duration": 45,
+    "type": "Consultation",
+    "status": "scheduled",
+    "notes": "Mental health evaluation"
+  }
+]

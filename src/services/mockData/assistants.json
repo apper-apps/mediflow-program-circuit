@@ -1,0 +1,78 @@
+[
+  {
+    "Id": 1,
+    "name": "Maria Rodriguez",
+    "email": "maria.rodriguez@mediflowpro.com",
+    "role": "Medical Assistant",
+    "permissions": {
+      "viewPatients": true,
+      "editPatients": true,
+      "scheduleAppointments": true,
+      "viewAppointments": true,
+      "managePrescriptions": false,
+      "viewPrescriptions": true,
+      "accessDrugDatabase": true,
+      "viewReports": false
+    },
+    "active": true,
+    "createdBy": "dr-1",
+    "createdAt": "2024-01-01T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "James Thompson",
+    "email": "james.thompson@mediflowpro.com",
+    "role": "Nurse",
+    "permissions": {
+      "viewPatients": true,
+      "editPatients": true,
+      "scheduleAppointments": true,
+      "viewAppointments": true,
+      "managePrescriptions": true,
+      "viewPrescriptions": true,
+      "accessDrugDatabase": true,
+      "viewReports": true
+    },
+    "active": true,
+    "createdBy": "dr-1",
+    "createdAt": "2024-01-05T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Lisa Chen",
+    "email": "lisa.chen@mediflowpro.com",
+    "role": "Receptionist",
+    "permissions": {
+      "viewPatients": true,
+      "editPatients": false,
+      "scheduleAppointments": true,
+      "viewAppointments": true,
+      "managePrescriptions": false,
+      "viewPrescriptions": false,
+      "accessDrugDatabase": false,
+      "viewReports": false
+    },
+    "active": true,
+    "createdBy": "dr-1",
+    "createdAt": "2024-01-10T09:15:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "Michael Johnson",
+    "email": "michael.johnson@mediflowpro.com",
+    "role": "Practice Manager",
+    "permissions": {
+      "viewPatients": true,
+      "editPatients": true,
+      "scheduleAppointments": true,
+      "viewAppointments": true,
+      "managePrescriptions": false,
+      "viewPrescriptions": true,
+      "accessDrugDatabase": true,
+      "viewReports": true
+    },
+    "active": false,
+    "createdBy": "dr-1",
+    "createdAt": "2023-12-15T16:45:00Z"
+  }
+]

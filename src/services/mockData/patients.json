@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "name": "John Smith",
+    "email": "john.smith@email.com",
+    "phone": "(555) 123-4567",
+    "dateOfBirth": "1985-03-15",
+    "gender": "Male",
+    "address": "123 Main St, City, ST 12345",
+    "allergies": ["Penicillin", "Shellfish"],
+    "currentMedications": ["Lisinopril 10mg", "Metformin 500mg"],
+    "medicalHistory": ["Hypertension", "Type 2 Diabetes"]
+  },
+  {
+    "Id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "phone": "(555) 234-5678",
+    "dateOfBirth": "1990-07-22",
+    "gender": "Female",
+    "address": "456 Oak Ave, City, ST 12345",
+    "allergies": [],
+    "currentMedications": ["Birth Control Pill"],
+    "medicalHistory": ["Migraine"]
+  },
+  {
+    "Id": 3,
+    "name": "Michael Brown",
+    "email": "michael.brown@email.com",
+    "phone": "(555) 345-6789",
+    "dateOfBirth": "1975-12-08",
+    "gender": "Male",
+    "address": "789 Pine Rd, City, ST 12345",
+    "allergies": ["Latex"],
+    "currentMedications": ["Atorvastatin 20mg", "Aspirin 81mg"],
+    "medicalHistory": ["High Cholesterol", "Heart Disease"]
+  },
+  {
+    "Id": 4,
+    "name": "Emily Davis",
+    "email": "emily.davis@email.com",
+    "phone": "(555) 456-7890",
+    "dateOfBirth": "1988-05-14",
+    "gender": "Female",
+    "address": "321 Elm St, City, ST 12345",
+    "allergies": ["Sulfa drugs"],
+    "currentMedications": ["Levothyroxine 75mcg"],
+    "medicalHistory": ["Hypothyroidism"]
+  },
+  {
+    "Id": 5,
+    "name": "David Wilson",
+    "email": "david.wilson@email.com",
+    "phone": "(555) 567-8901",
+    "dateOfBirth": "1982-11-30",
+    "gender": "Male",
+    "address": "654 Maple Dr, City, ST 12345",
+    "allergies": [],
+    "currentMedications": [],
+    "medicalHistory": []
+  },
+  {
+    "Id": 6,
+    "name": "Jennifer Miller",
+    "email": "jennifer.miller@email.com",
+    "phone": "(555) 678-9012",
+    "dateOfBirth": "1995-09-18",
+    "gender": "Female",
+    "address": "987 Cedar Ln, City, ST 12345",
+    "allergies": ["Peanuts"],
+    "currentMedications": ["Albuterol Inhaler"],
+    "medicalHistory": ["Asthma", "Food Allergies"]
+  },
+  {
+    "Id": 7,
+    "name": "Robert Taylor",
+    "email": "robert.taylor@email.com",
+    "phone": "(555) 789-0123",
+    "dateOfBirth": "1972-01-25",
+    "gender": "Male",
+    "address": "147 Birch Way, City, ST 12345",
+    "allergies": ["Iodine"],
+    "currentMedications": ["Omeprazole 20mg"],
+    "medicalHistory": ["GERD", "Kidney Stones"]
+  },
+  {
+    "Id": 8,
+    "name": "Lisa Anderson",
+    "email": "lisa.anderson@email.com",
+    "phone": "(555) 890-1234",
+    "dateOfBirth": "1987-06-11",
+    "gender": "Female",
+    "address": "258 Spruce St, City, ST 12345",
+    "allergies": [],
+    "currentMedications": ["Sertraline 50mg"],
+    "medicalHistory": ["Depression", "Anxiety"]
+  }
+]
